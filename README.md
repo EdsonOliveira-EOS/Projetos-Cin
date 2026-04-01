@@ -13,6 +13,7 @@
 - 📫 How to reach me: oliveiraedson.silva2007@hotmail.com | 💭 +55 (81) 9 9376-2931
 - 🌐 Languages i know: Brazilian Portuguese - English
 - 🖋 Currently pursuing a degree in Computer Engineering at UFPE!
+- 🌐 I'm currently a Teaching Assistant for Introduction to Programming at the Center for Informatics (CIn) at UFPE!
 
 ---
 
@@ -32,7 +33,7 @@
 
 ### 📁 Projects I've worked on
 
-▶ **Pygame Spaceship Game: https://github.com/ceciliaestelita/Jogo-IP**
+▶ **Pygame Spaceship Game (Python) : https://github.com/ceciliaestelita/Jogo-IP**
 
 ▶ **Imperative Programmation (Learning C): https://github.com/EdsonOliveira-EOS/Atividades-PI**
 
