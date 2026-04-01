@@ -32,6 +32,8 @@
 
 ### 📁 Projects I've worked on
 
+▶ **Pygame Spaceship Game: https://github.com/ceciliaestelita/Jogo-IP**
+
 ▶ **Imperative Programmation (Learning C): https://github.com/EdsonOliveira-EOS/Atividades-PI**
 
 ▶ **Digital Circuits: https://github.com/EdsonOliveira-EOS/Projeto-SD**
